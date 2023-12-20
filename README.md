@@ -8,7 +8,6 @@ Follow the instructions within the notebook to execute the project steps.
 ## Data Sources
 The dataset used in this project consists of hand images portraying rock, paper, and scissors gestures. You can download the dataset from the Dataset [Link Dataset](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
 
-================================================================================================================ID================================================================================================================
 
 ## Pengantar
 
