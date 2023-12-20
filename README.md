@@ -1,5 +1,3 @@
-==========EN==========
-
 ## Overview
 This project involves implementing a simple image classification aimed at recognizing images depicting hands in the shapes of rock, paper, or scissors. The objective is to construct a machine learning model capable of predicting the image category based on the dataset of hand images.
 
@@ -10,7 +8,7 @@ Follow the instructions within the notebook to execute the project steps.
 ## Data Sources
 The dataset used in this project consists of hand images portraying rock, paper, and scissors gestures. You can download the dataset from the Dataset [Link Dataset](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
 
-==========ID==========
+================================================================================================================ID================================================================================================================
 
 ## Pengantar
 
